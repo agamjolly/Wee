@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "media/icons/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Wee! - URL Shortener"
+   },
+   "description": "Shorten URLs right in your address bar.",
+   "homepage_url": "https://www.agamjolly.com/wee",
+   "icons": {
+      "128": "media/icons/icon128.png",
+      "16": "media/icons/icon16.png",
+      "48": "media/icons/icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Wee! - URL Shortener",
+   "permissions": [ "activeTab", "clipboardWrite", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
