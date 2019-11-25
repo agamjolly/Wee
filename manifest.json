@@ -10,7 +10,7 @@
       "default_popup": "popup.html",
       "default_title": "Wee! - URL Shortener"
    },
-   "description": "Shorten URLs right in your address bar.",
+   "description": "Shorten URLs and share across devices.",
    "homepage_url": "https://www.agamjolly.com/wee",
    "icons": {
       "128": "media/icons/icon128.png",
